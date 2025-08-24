@@ -266,10 +266,29 @@ the quiz or test.
     <paragraphs>
       <title>Midterm exams</title>
       <p>
-        Each of the preliminary exams will cover approximately 4 weeks of course content. While the preliminary
-exams are not cumulative, you should understand that every math exam you have ever taken builds upon
-previous material. These exams are no exception. See the course schedule (below) for exam dates and topics.
+        Each of the midterm exams will cover approximately 4 weeks of course content. While the midterm
+        exams are not cumulative, you should understand that every math exam you have ever taken builds 
+        upon previous material. These exams are no exception. 
       </p>
+      <p> The midterm exams wil be given on the following dates:
+      </p>
+      <ul>
+        <li>
+          <p>
+            Exam 1: Week 4, September 17 or 18. (Covers chapter 2.)
+          </p>
+        </li>
+        <li>
+          <p>
+            Exam 2: Week 9, October 22 or 23. (Covers chapter 3.)
+          </p>
+        </li>
+        <li>
+          <p>
+            Exam 3: Week 12, November 12 or 13. (Covers chapter 4.)
+          </p>
+        </li>
+      </ul>
     </paragraphs>
     <paragraphs>
       <title>Final exam</title>
@@ -278,6 +297,9 @@ previous material. These exams are no exception. See the course schedule (below)
 last preliminary exam. The final exam has a 2.5 hour time block. The first hour will be composed of 20<ndash/>25
 multiple choice questions (see topics below), these Common Core questions are the same across all section
 of 181. The remaining 1.5 hours of the exam will be spent on questions specific to this section of Math 181.
+      </p>
+      <p>
+        The final exam is given on Wednesday 12/10 from 4:15<ndash/>6:45PM. See SIS for the room.
       </p>
     </paragraphs>
     
@@ -291,7 +313,7 @@ of 181. The remaining 1.5 hours of the exam will be spent on questions specific 
     <paragraphs>      
       <title>WebAssign</title>
       <p>
-        Homework will be given through WebAssign and will be due every Tuesday night at midnight. 
+        Homework will be given through WebAssign and will generally be due every Tuesday night at 11:59pm EST. 
         Each week's assignemnt will cover the sections completed during the previous week of class. 
         If necessary you may extend the due date for each assignment by up to three days, at a 50% penalty.  
       </p>
@@ -299,8 +321,11 @@ of 181. The remaining 1.5 hours of the exam will be spent on questions specific 
     <paragraphs>
       <title>Quizzes</title>
       <p>
-        In the section class each week there will be a written quiz (with the exeption of the weeks we have exams). 
-        These quizzes will cover the material on the homework that was due that week. <alert>No makeup quizzes will be offered.</alert> 
+        In the second class each week (Wednesday or Thursday) there will be a written quiz 
+        (with the exception of the weeks we have exams). 
+        These quizzes will cover the material on the homework that was due that week. 
+        You will have 30 mintues for each in class quiz. Each quiz will consist of approximately 4 questions. 
+        <alert>No makeup quizzes will be offered.</alert> 
       </p>
     </paragraphs>
     <paragraphs>
@@ -322,9 +347,22 @@ of 181. The remaining 1.5 hours of the exam will be spent on questions specific 
   <section xml:id="sec-ExtraCredit">
     <title>Extra Credit</title>
     <p>
-      Every student will have the same opportunities to earn credit in this course via webwork, workshops, quizzes,
-      the project, the preliminary exams and the final exam. There are <em>NO</em> other opportunities to earn credit in
-      this course. 
+      Every student will have the same opportunities to earn credit in this course via webassign, classwork, 
+      quizzes, topic quizzes, the preliminary exams and the final exam. 
+      There are <em>NO</em> other opportunities to earn credit in this course. 
+    </p>
+  </section>
+
+  <section xml:id="sec-Recitations">
+    <title>Recitations</title><p>
+      There are help sessions for calculus on Wednesday and Friday from 4<ndash/>5:50 in INS-1140,
+      
+      These sessions are staffed by Recitation Instructors to help with your calculus questions 
+      and award you 2 extra topic quiz attempts per week! 
+      Feel free to use the space and white boards to create your own Calculus Study Group. 
+      A score of at least 85% is required to pass a given topic quiz. 
+      You have 2 initial attempts to pass each topic quiz.
+      The deadline for all topic quizzes is the last day of classes.
     </p>
   </section>
   <section xml:id="sec-schedule">
@@ -418,7 +456,7 @@ of 181. The remaining 1.5 hours of the exam will be spent on questions specific 
         <li>
           <title>Week 15</title>
           <p>
-            5.4 and 5.9.
+            5.4 and 5.5.
           </p>
         </li>  
         <li>
