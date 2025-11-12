@@ -57,6 +57,8 @@
             </p>
             <sidebyside widths="30% 30% 30%">
               <image width="70%">
+                <shortdescription>An arrow diagram for a relation</shortdescription>
+                <description>An arrow diagram with three notes, which are labeled 1, 2, and 3. The node labeled 1 has an arrow to itself and arrows to nodes 2 and 3. There are no outgoing arrows from nodes 2 or 3.</description>
                 <prefigure xmlns="https://prefigure.org" label="2025-Worksheet-12-Ex-1-a">
                   <diagram dimensions="(200,200)" margins="10">
                     <coordinates bbox="(-0.25,-1.25,2.25,0.25)">
@@ -458,7 +460,8 @@
     <figure xml:id="fig-wkst-12-digraph">
       <caption>A digraph</caption>
       <image>
-        <shortdescription></shortdescription>
+        <shortdescription>A digraph with 7 nodes</shortdescription>
+        <description>A diagraph with 7 nodes, labeled <m>a</m>, <m>b</m>, <m>c</m>, <m>d</m>, <m>e</m>, <m>f</m>, and <m>g</m>.</description>
         <prefigure xmlns="https://prefigure.org" label="2025-Worksheet-12-Ex-6-digraph">
           <diagram dimensions="(200,200)" margins="5">
             <definition>N=6</definition>
