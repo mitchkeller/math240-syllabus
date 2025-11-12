@@ -57,8 +57,6 @@
             </p>
             <sidebyside widths="30% 30% 30%">
               <image width="70%">
-                <shortdescription>An arrow diagram for a relation</shortdescription>
-                <description>An arrow diagram with three notes, which are labeled 1, 2, and 3. The node labeled 1 has an arrow to itself and arrows to nodes 2 and 3. There are no outgoing arrows from nodes 2 or 3.</description>
                 <prefigure xmlns="https://prefigure.org" label="2025-Worksheet-12-Ex-1-a">
                   <diagram dimensions="(200,200)" margins="10">
                     <coordinates bbox="(-0.25,-1.25,2.25,0.25)">
@@ -130,6 +128,8 @@
           <figure>
             <caption/>
             <image width="70%">
+              <shortdescription>An arrow diagram for a relation</shortdescription>
+                <description>An arrow diagram with three notes, which are labeled 1, 2, and 3. The node labeled 1 has an arrow to itself and arrows to nodes 2 and 3. There are no outgoing arrows from nodes 2 or 3.</description>
               <prefigure xmlns="https://prefigure.org" label="2025-Worksheet-12-Ex-2-a">
                 <diagram dimensions="(200,200)" margins="10">
                   <coordinates bbox="(-0.75,-1.25,2.25,0.5)">
